@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         settings.setMediaPlaybackRequiresUserGesture(false);
 
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://prosper-movies-sox3l9.v2.appdeploy.ai/");
+        webView.loadUrl("https://pros0675.github.io/");
     }
 
     @Override
